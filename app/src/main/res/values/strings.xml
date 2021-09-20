@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lab02 - GUI Interaction</string>
+    <string name="enter">Enter</string>
+    <string name="cycle">Cycle</string>
+    <string name="play_sound">Play</string>
+    <string-array name="cyclist">
+        <item>A</item>
+        <item>Bb</item>
+        <item>B</item>
+        <item>C</item>
+        <item>Db</item>
+        <item>D</item>
+        <item>Eb</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>Ab</item>
+    </string-array>
+</resources>
